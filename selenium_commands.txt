@@ -1,0 +1,22 @@
+Selenium WebDriver commands:
+
+1. get()  This command launches a new browser and opens the specified URL in the browser instance.
+e.g. driver.get("https://google.com")
+
+2. getTitle() This command is used to retrieve the title of the webpage the user is currently working on.
+
+3. getText() This command is used to retrieve the inner text of the specified web element.
+e.g. String Text = driver.findElement(By.id("Text")).getText();
+
+4. getClass() This command is used to retrieve the Class object that represents the runtime class of this object.
+e.g. driver.getClass();
+
+5. getCurrentUrl() This command is used to retrieve the URL of the webpage the user is currently accessing
+e.g. driver.getCurrentUrl();
+
+6. getWindowHandle() This command is used to tackle with the situation when we have more than one window to deal with and to switch to the newly opened window and performs actions on the new window.
+
+e.g. private String winHandleBefore;
+     winHandleBefore = driver.getWindowHandle();
+     driver.switchTo().window(winHandleBefore);
+
