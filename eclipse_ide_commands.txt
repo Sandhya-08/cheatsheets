@@ -1,0 +1,15 @@
+Shortcut commands in Eclipse IDE :
+
+CTRL + /       for commenting, uncommenting lines and blocks
+CTRL + Shift + /        for commenting, uncommenting lines with block comment
+CTRL + F4 or CTRL + w       for closing current file
+CTRL+Shirt+W          for closing all files
+CTRL + l          go to line
+CTRL + Shift + F     Select text and press this command for formatting
+CTRL + F      for find, find/replace
+CTRL + D       to delete a line
+CTRL + Q        for going to last edited place
+CTRL + / –>         to comment single line of code
+CTRL + / –>       to uncomment the same line of code, which is already commented
+CTRL + SHIFT + / –>        to comment block of code 
+CTRL + SHIFT + \ –>        to uncomment block of code, which is already commented
