@@ -1,0 +1,13 @@
+Git Commands Cheatsheet:-
+
+git config - used to set the email and name of the author
+git init - used to start a new repository
+git add - add files to the staging area
+git merge - merges the provided branch with the current one
+git pull - to pull down the updates from the remote repository
+git commit - used to commit the files
+git branch - list the local branches in the repository
+git clone - to download existing code from a remote repository
+git reset - undoes all the commits and preserves the changes locally
+git stash - to remove uncommited files
+git rm - removes file from the directory
